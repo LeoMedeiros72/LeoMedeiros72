@@ -29,11 +29,11 @@
 
 ## 🔥 Projetos Destacados
 
-| Projeto | Tecnologias | Link |
-|---------|-------------|------|
-| [Calculadora Científica 3.0](https://github.com/LeoMedeiros72/Calculadora3.0) | Python, Scikit-learn | [Ver código](https://github.com/LeoMedeiros72/Calculadora3.0) |
-| [Dashboard Petshop](https://github.com/LeoMedeiros72/Dashboard_Petshop) | Power BI, SQL | [Ver projeto](https://github.com/LeoMedeiros72/Dashboard_Petshop) |
-| [Previsão de Vendas](https://github.com/LeoMedeiros72/Previsao_de_Vendas) | Python, Pandas | [Ver análise](https://github.com/LeoMedeiros72/Previsao_de_Vendas) |
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|-------------|------|
+| [Calculadora 3.0](https://github.com/LeoMedeiros72/Calculadora-3.0) | Calculadora científica com recursos avançados | Python, Matplotlib | [Repositório](https://github.com/LeoMedeiros72/Calculadora-3.0) |
+| [Dashboard Petshop](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) | Análise completa de negócio pet | Power BI, DAX | [Repositório](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) |
+| [Machine Learning](https://github.com/LeoMedeiros72/machine-learning-project) | Modelos preditivos para análise de dados | Python, Scikit-learn | [Repositório](https://github.com/LeoMedeiros72/machine-learning-project) |
 
 ## 📊 Minha Atividade
 
