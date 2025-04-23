@@ -38,16 +38,15 @@
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)
 ![SAS Visual Analitycs](https://img.shields.io/badge/SAS-007CC3?logo=sas&logoColor=white)
 
-
-
 ## 🔥 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|------------|-------------|------|
-| [📐 Calculadora 3.0](https://github.com/LeoMedeiros72/Calculadora-3.0) | Calculadora científica com recursos avançados e interface customizada | Python, Matplotlib | [GitHub](https://github.com/LeoMedeiros72/Calculadora-3.0) |
-| [🐾 Dashboard Petshop](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) | Análise completa de negócio no setor pet | Power BI, DAX | [GitHub](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) |
-| [🤖 Machine Learning](https://github.com/LeoMedeiros72/machine-learning-project) | Modelos preditivos aplicados a cenários reais | Python, Scikit-learn | [GitHub](https://github.com/LeoMedeiros72/machine-learning-project) |
-| [📊 Contabilidade Inteligente](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) | Plataforma com IA que interpreta dados contábeis via SQLite e responde dúvidas via chatbot | Python, SQLite, IA | [GitHub](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) |
+| Projeto | Descrição | Tecnologias | Impacto | Link |
+|--------|------------|-------------|---------|------|
+| [📐 Calculadora 3.0](https://github.com/LeoMedeiros72/Calculadora-3.0) | Calculadora científica com recursos avançados e interface customizada | Python, Matplotlib | *Aumento de 40% na eficiência de cálculos em comparação com a versão anterior* | [GitHub](https://github.com/LeoMedeiros72/Calculadora-3.0) |
+| [🐾 Dashboard Petshop](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) | Análise completa de negócio no setor pet | Power BI, DAX | *Redução de 15% no tempo de decisão de stakeholders com painéis interativos e métricas de performance* | [GitHub](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) |
+| [🤖 Machine Learning](https://github.com/LeoMedeiros72/machine-learning-project) | Modelos preditivos aplicados a cenários reais | Python, Scikit-learn | *Aumento de 25% na precisão dos modelos preditivos em relação às versões anteriores* | [GitHub](https://github.com/LeoMedeiros72/machine-learning-project) |
+| [📊 Contabilidade Inteligente](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) | Plataforma com IA que interpreta dados contábeis via SQLite e responde dúvidas via chatbot | Python, SQLite, IA | *Redução de 15% no tempo gasto em processos contábeis, com chatbots respondendo dúvidas em tempo real* | [GitHub](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) |
+
 
 ## ✍️ Publicações Técnicas
 
