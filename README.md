@@ -6,12 +6,19 @@
 
 ## 🚀 Sobre Mim
 
-**Cientista de Dados com mais de 4 anos de experiência transformando dados em resultados concretos:**  
-- ⚡ **Automação de processos**: Redução de 30% no tempo de execução com scripts em Python + BigQuery  
-- 📊 **Dashboards estratégicos**: Painéis que encurtaram em 15% o tempo de decisão de stakeholders  
-- 🤖 **Modelos preditivos**: Soluções com +25% de precisão aplicadas em cenários reais  
+Sou um Cientista de Dados com mais de 4 anos de experiência na criação de soluções baseadas em dados para empresas de diversos setores. Tenho uma forte paixão por transformar dados brutos em insights acionáveis e soluções automatizadas. 
 
-🎓 **Background em Educação** — explico o complexo de forma simples e direta.
+**Visão Profissional**: Meu objetivo é usar IA e Machine Learning para resolver problemas reais, aplicando modelos preditivos e ferramentas analíticas para otimizar processos e apoiar decisões estratégicas.
+
+**Habilidades**: 
+- *Comunicação*: Sou capaz de traduzir dados complexos em insights compreensíveis para todas as partes interessadas, facilitando a colaboração entre equipes técnicas e não-técnicas.
+- *Gestão de Projetos*: Tenho experiência em gerenciar e entregar projetos de ciência de dados, sempre focando na qualidade, prazos e resultados.
+
+**Apaixonado por Aprender**: Estou constantemente aprendendo novas técnicas e metodologias em ciência de dados, com interesse especial em Deep Learning e Inteligência Artificial. Recentemente, estou me aprofundando no uso de redes neurais convolucionais (CNNs) e GANs.
+
+**Contribuições para a Comunidade**: Contribuo com código aberto no GitHub, participo de hackathons e compartilho meu aprendizado através de blogs e publicações técnicas.
+
+**Visão sobre a Tecnologia**: Acredito no potencial transformador da IA, especialmente na maneira como ela pode melhorar a tomada de decisões e a eficiência das empresas, além de ser uma ferramenta poderosa para resolver desafios globais.
 
 ## 🛠 Stack Técnica
 
