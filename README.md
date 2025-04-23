@@ -20,6 +20,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-007CC3?logo=sas&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
+**🤖 Machine Learning**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3A6E23?logo=xgboost&logoColor=white)
 
 **☁️ Cloud & Big Data**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
@@ -29,6 +36,9 @@
 **📈 Visualização & BI**  
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google&logoColor=white)
+![SAS Visual Analitycs](https://img.shields.io/badge/SAS-007CC3?logo=sas&logoColor=white)
+
+
 
 ## 🔥 Projetos em Destaque
 
