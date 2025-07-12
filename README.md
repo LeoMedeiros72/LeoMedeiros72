@@ -50,10 +50,11 @@ Sou um Cientista de Dados com mais de 4 anos de experiência na criação de sol
 | Projeto | Descrição | Tecnologias | Impacto | Link |
 |--------|------------|-------------|---------|------|
 | [Projeto_fraude](https://github.com/LeoMedeiros72/Projeto_fraude) | Análise e detecção de fraudes utilizando técnicas de machine learning | Python, Scikit-learn, Pandas | *Melhoria na precisão de identificação de fraudes em 30% em comparação com o método anterior* | [GitHub](https://github.com/LeoMedeiros72/Projeto_fraude) |
-| [Calculadora 3.0](https://github.com/LeoMedeiros72/Calculadora-3.0) | Calculadora científica com recursos avançados e interface customizada | Python, Matplotlib | *Aumento de 40% na eficiência de cálculos em comparação com a versão anterior* | [GitHub](https://github.com/LeoMedeiros72/Calculadora-3.0) |
-| [Dashboard Petshop](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) | Análise completa de negócio no setor pet | Power BI, DAX | *Redução de 15% no tempo de decisão de stakeholders com painéis interativos e métricas de performance* | [GitHub](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) |
 | [Machine Learning](https://github.com/LeoMedeiros72/machine-learning-project) | Modelos preditivos aplicados a cenários reais | Python, Scikit-learn | *Aumento de 25% na precisão dos modelos preditivos em relação às versões anteriores* | [GitHub](https://github.com/LeoMedeiros72/machine-learning-project) |
 | [Contabilidade Inteligente](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) | Plataforma com IA que interpreta dados contábeis via SQLite e responde dúvidas via chatbot | Python, SQLite, IA | *Redução de 15% no tempo gasto em processos contábeis, com chatbots respondendo dúvidas em tempo real* | [GitHub](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) |
+| [ControleGastosApp](https://github.com/LeoMedeiros72/ControleGastosApp) | Aplicativo para controle de gastos pessoais desenvolvido com .NET MAUI | C#, .NET MAUI, XAML | *Aplicativo simples e funcional para gestão financeira pessoal* | [GitHub](https://github.com/LeoMedeiros72/ControleGastosApp) |
+| [Calculadora 3.0](https://github.com/LeoMedeiros72/Calculadora-3.0) | Calculadora científica com recursos avançados e interface customizada | Python, Matplotlib | *Aumento de 40% na eficiência de cálculos em comparação com a versão anterior* | [GitHub](https://github.com/LeoMedeiros72/Calculadora-3.0) |
+| [Dashboard Petshop](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) | Análise completa de negócio no setor pet | Power BI, DAX | *Redução de 15% no tempo de decisão de stakeholders com painéis interativos e métricas de performance* | [GitHub](https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop) |
 
 
 
