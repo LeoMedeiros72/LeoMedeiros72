@@ -98,6 +98,6 @@ Sou um Cientista de Dados com mais de 4 anos de experiência na criação de sol
 
 ## Vamos Conversar?
 
- **Email:** [xorao.lsm@gmail.com](mailto:xorao.lsm@gmail.com)  
+ **Email:** [xorao.lsm@gmail.com](mailto:xorao.lsm@gmail.com), [leonardo.medeiros7293@outlook.com](mailto:leonardo.medeiros7293@outlook.com)    
  **LinkedIn:** [Leonardo Santos Medeiros](https://www.linkedin.com/in/leonardo-santos-medeiros/)  
  **GitHub:** [@LeoMedeiros72](https://github.com/LeoMedeiros72)
