@@ -34,11 +34,15 @@ Sou um Cientista de Dados com mais de 4 anos de experiência na criação de sol
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3A6E23?logo=xgboost&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF4B4B?logo=openai&logoColor=white)
 
 ** Cloud & Big Data**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+** Automação & Orquestração**  
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?logo=n8n&logoColor=white)
 
 ** Visualização & BI**  
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
