@@ -49,6 +49,7 @@ Sou um Cientista de Dados com mais de 4 anos de experiência na criação de sol
 
 | Projeto | Descrição | Tecnologias | Impacto | Link |
 |--------|------------|-------------|---------|------|
+| [Avaliador de Currículo](https://github.com/LeoMedeiros72/avaliador-rh-n8n-lite) | Automação para leitura, extração e avaliação de currículos, atribuindo nota e justificativa com base nos requisitos da vaga | n8n, IA, Google Sheets, API Gemini | *Otimização de 70% no tempo de triagem de currículos e padronização da análise de candidatos* | [GitHub](https://github.com/LeoMedeiros72/avaliador-rh-n8n-lite) |
 | [Projeto_fraude](https://github.com/LeoMedeiros72/Projeto_fraude) | Análise e detecção de fraudes utilizando técnicas de machine learning | Python, Scikit-learn, Pandas | *Melhoria na precisão de identificação de fraudes em 30% em comparação com o método anterior* | [GitHub](https://github.com/LeoMedeiros72/Projeto_fraude) |
 | [Machine Learning](https://github.com/LeoMedeiros72/machine-learning-project) | Modelos preditivos aplicados a cenários reais | Python, Scikit-learn | *Aumento de 25% na precisão dos modelos preditivos em relação às versões anteriores* | [GitHub](https://github.com/LeoMedeiros72/machine-learning-project) |
 | [Contabilidade Inteligente](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) | Plataforma com IA que interpreta dados contábeis via SQLite e responde dúvidas via chatbot | Python, SQLite, IA | *Redução de 15% no tempo gasto em processos contábeis, com chatbots respondendo dúvidas em tempo real* | [GitHub](https://github.com/LeoMedeiros72/Contabilidade_Inteligente) |
@@ -70,7 +71,8 @@ Sou um Cientista de Dados com mais de 4 anos de experiência na criação de sol
 | Licenciatura em Matemática | Faculdade Projeção | 2014 |
 | Pós-graduação em Docência do Ensino Superior | Unyleya Educacional | 2018 |
 | Graduação em Gestão da Tecnologia da Informação | UNIP | 2024 |
-| Pós-graduação em Inteligência Artificial e Machine Learning | Anhanguera Educacional | Em andamento (Previsão: 2025) |
+| Pós-graduação em Inteligência Artificial e Machine Learning | Anhanguera Educacional | 2025 |
+| Pós-graduação em Ciência de Dados e Analytics Avançado | Anhanguera Educacional | Em andamento (Previsão: 2026) |
 
 
 ## Certificações
