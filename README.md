@@ -1,18 +1,21 @@
 # Olá, eu sou o Leonardo Santos Medeiros!
 
-**Cientista de Dados | Especialista em Automação & IA**  
+**Cientista de Dados | Especialista em IA & Automação**  
 
 *"Transformo dados em decisões — com código enxuto, dashboards que falam e perguntas que ninguém fez ainda."*
 
+*"Aprendi que IA é um parceiro, um facilitador e que sua usabilidade é importante"*
+
 ## Sobre Mim
 
-Sou um Cientista de Dados com mais de 4 anos de experiência na criação de soluções baseadas em dados para empresas de diversos setores. Tenho uma forte paixão por transformar dados brutos em insights acionáveis e soluções automatizadas. 
+Sou um Cientista de Dados com mais de 5 anos de experiência na criação de soluções baseadas em dados para empresas de diversos setores. Tenho uma forte paixão por transformar dados brutos em insights acionáveis e soluções automatizadas. 
 
 **Visão Profissional**: Meu objetivo é usar IA e Machine Learning para resolver problemas reais, aplicando modelos preditivos e ferramentas analíticas para otimizar processos e apoiar decisões estratégicas.
 
 **Habilidades**: 
 - *Comunicação*: Sou capaz de traduzir dados complexos em insights compreensíveis para todas as partes interessadas, facilitando a colaboração entre equipes técnicas e não-técnicas.
 - *Gestão de Projetos*: Tenho experiência em gerenciar e entregar projetos de ciência de dados, sempre focando na qualidade, prazos e resultados.
+- *Liderança*: Atuo como líder técnico de projetos e consigo usar meu conhecimento e experiência para entregar um projeto completo.
 
 **Apaixonado por Aprender**: Estou constantemente aprendendo novas técnicas e metodologias em ciência de dados, com interesse especial em Deep Learning e Inteligência Artificial. Recentemente, estou me aprofundando no uso de redes neurais convolucionais (CNNs) e GANs.
 
