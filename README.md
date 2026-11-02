@@ -41,7 +41,7 @@ Studio, SAS (Enterprise Guide e Visual Analytics), n8n, Git
 
 ## Projetos
 
-### [Avaliador de Currículos](https://www.avaliadorcurriculos.com.br)
+### [Avaliador de Currículos]([https://www.avaliadorcurriculos.com.br](https://avaliador-curriculos.n8n-simpletime.cloud/))
 Produto próprio em produção, em beta com acesso controlado.
 
 Triagem de currículos assistida por IA. O recrutador cadastra a vaga com seus requisitos, envia
